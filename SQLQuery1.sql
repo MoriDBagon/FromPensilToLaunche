@@ -1,0 +1,4 @@
+CREATE TABLE ImageLoad (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    ImageData VARBINARY(MAX) NOT NULL
+);

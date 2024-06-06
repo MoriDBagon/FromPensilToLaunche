@@ -99,5 +99,25 @@ namespace FromPensilToLaunche.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap photo_2024_03_07_20_25_03 {
+            get {
+                object obj = ResourceManager.GetObject("photo_2024-03-07_20-25-03", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap photo_2024_04_08_14_37_24 {
+            get {
+                object obj = ResourceManager.GetObject("photo_2024-04-08_14-37-24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
