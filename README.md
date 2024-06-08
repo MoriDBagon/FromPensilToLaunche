@@ -1,8 +1,16 @@
-FromPensilToLaunche
+#FromPensilToLaunche
+
+From pencil to launch is a dectop application create with C# to generate images using LoRa model bb 
+
+#Installation 
 
 To install and start working with this Program you would first need to first copy this repository from GitHub
-git clone –recursive https://github.com/MoriDBagon/FromPensilToLaunche.git
 
+'''bash
+git clone –recursive https://github.com/MoriDBagon/FromPensilToLaunche.git
+'''
+
+#Requermants
 What is needed to run the code
 Visual Studio 
 .Net 7.3
